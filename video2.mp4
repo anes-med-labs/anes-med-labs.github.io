@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>教材用動画2</title>
+</head>
+<body>
+  <h2>教材用動画2</h2>
+  <video src="video2.mp4" autoplay loop muted playsinline width="600"></video>
+  <p>この動画は2ページ目の教材補助資料です。</p>
+</body>
+</html>
